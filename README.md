@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jagadeesh
+- 👋 Hi, I’m Jagadeesh B Mothiki
 - 👀 I’m interested in Architecture
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on open source
